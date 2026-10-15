@@ -1,2 +1,2 @@
-# CALCULATOR_
-calculator for your personal use
+# Calculator
+A calculator project made for your convenient use
